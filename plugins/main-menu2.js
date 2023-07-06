@@ -17,7 +17,7 @@ let m2 = `
 ▢ .info
 ▢ .owner
 ▢ .donate
-▢ .gpguru
+▢ .ownergc
 ▢ .listprem
 ▢ .help
 ▢ .audios
@@ -65,7 +65,6 @@ let m2 = `
 ▢ .tovid
 ▢ .trigger <@user>
 ▢ .ttp <text>
-▢ .take <name>|<author>
 └───────────
 
 ┌─⊷ *IMAGE*
@@ -93,13 +92,11 @@ let m2 = `
 └───────────
 
 ┌─⊷ *GROUP*
-▢ .add
 ▢ .delete
 ▢ .delwarn @user
 ▢ .demote (@tag)
 ▢ .infogp
 ▢ .hidetag
-▢ .invite <917xxx>
 ▢ .kick @user
 ▢ .link
 ▢ .poll <Guru|piro|xd>
