@@ -76,7 +76,7 @@ export default handler;*/
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, text }) => {
-  if (!text) throw 'NUMBER dedo?';
+  if (!text) throw 'provide a phone number, baka. ';
 
   try {
     let res = await fetch(`https://inrl-web.onrender.com/api/truecaller?number=${text}`);
