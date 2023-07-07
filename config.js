@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/DF3fnIHbFxWEY3bqUAf7Is'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = ''
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://i.pinimg.com/236x/c5/d4/89/c5d48918e3293f11abb999fee49e4040.jpg' 
 
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
